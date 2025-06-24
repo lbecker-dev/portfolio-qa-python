@@ -8,21 +8,18 @@ Aqui compartilho meus estudos e aplicações práticas nas áreas de **Desenvolv
 ## 👩‍💻 Sobre mim
 
 Sou formada em Engenharia da Computação e Pós-graduada em Perícia Forense Computacional.  
-Atualmente atuo como Analista de TI com foco em segurança da informação e LGPD, e estou em transição para as áreas de **desenvolvimento Python** e **teste de software**.
+Atuo há mais de 7 anos na área de TI, com foco em segurança da informação, LGPD, infraestrutura e automações internas.
 
-Participo de projetos voltados à:
-- Desenvolvimento de sistemas web internos
-- Monitoramento de redes e segurança
-- Implantação de melhorias com foco em automação e eficiência
+Atualmente estou em transição de carreira para as áreas de **desenvolvimento em Python** e **teste de software**, unindo minha base técnica à busca por soluções práticas e eficazes.
 
 ---
 
 ## 🚀 Tecnologias em Aprendizado
 
 - Python
-- Selenium
-- Postman / Testes de API
-- Flask (API REST)
+- Selenium (automação de testes)
+- Postman (testes de API)
+- Flask (desenvolvimento de APIs REST)
 - Git / GitHub
 - Banco de Dados (MySQL / SQLite)
 - Power BI
@@ -32,20 +29,21 @@ Participo de projetos voltados à:
 ## 📂 Projetos
 
 ### 🐍 Python
-- [x] To-Do List CLI
-- [ ] API de cadastro com Flask
-- [ ] Automação de tarefas com Python
+- 📌 To-Do List CLI (Python básico)
+- 📌 API de cadastro com Flask (CRUD)
+- 📌 Automação de tarefas repetitivas com Python
 
 ### ✅ QA | Testes
-- [x] Teste de API pública com Postman
-- [ ] Automação de login com Selenium
-- [ ] Plano de Testes e Relatório de Bugs
+- ✅ Testes de API com Postman
+- ✅ Automação de login com Selenium
+- ✅ Plano de Testes e Relatório de Bugs
+
+*(Projetos em desenvolvimento e serão adicionados em breve.)*
 
 ---
 
 ## 📫 Contato
 
-- 📧 lillybbecker@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/liliane-becker-3149712A)
+- 📧 E-mail: lillybbecker@gmail.com  
+- 💼 [LinkedIn: liliane-becker-3149712A](https://www.linkedin.com/in/liliane-becker-3149712A)
 
----
