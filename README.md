@@ -38,6 +38,11 @@ Atualmente estou em transição de carreira para as áreas de **desenvolvimento 
 - ✅ Automação de login com Selenium
 - ✅ Plano de Testes e Relatório de Bugs
 
+## 📁 Arquivos
+
+- [`reqres_tests.json`](./colecao-postman/reqres_tests.json) – Coleção exportada do Postman
+- `casos-de-teste.md` – Documentação dos testes realizados
+- 
 *(Projetos em desenvolvimento e serão adicionados em breve.)*
 
 ---
