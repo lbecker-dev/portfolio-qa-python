@@ -42,7 +42,45 @@ Atualmente estou em transição de carreira para as áreas de **desenvolvimento 
 
 - [`reqres_tests.json`](./colecao-postman/reqres_tests.json) – Coleção exportada do Postman
 - `casos-de-teste.md` – Documentação dos testes realizados
-- 
+
+# ⚙️ Automação de Atividades Repetitivas com Python
+
+Scripts desenvolvidos para automatizar tarefas rotineiras envolvendo arquivos do Excel.  
+Estes scripts foram aplicados em situações reais dentro da área de TI corporativa, otimizando tempo e reduzindo erros manuais.
+
+---
+
+## 🧠 Objetivo
+
+Demonstrar habilidades práticas em **automação com Python**, focando em:
+
+- Correção de colunas com erro
+- Leitura de planilhas com pandas
+- Análise de dados contidos em Excel
+- Manipulação de valores e tratamento de dados
+
+---
+
+## 📂 Scripts disponíveis
+
+| Script                        | Descrição                                                  |
+|------------------------------|-------------------------------------------------------------|
+| `corrigir_coluna_excel.py`   | Corrige colunas com conteúdo duplicado ou formatado incorretamente |
+| `analise_excel_pandas.py`    | Lê planilha, identifica valores únicos e resume colunas-chave |
+| `planilha_teste.xlsx`        | Arquivo exemplo para teste dos scripts                     |
+
+---
+
+## 📦 Bibliotecas utilizadas
+
+- `openpyxl`
+- `pandas`
+
+Instale com:
+
+```bash
+pip install pandas openpyxl
+
 *(Projetos em desenvolvimento e serão adicionados em breve.)*
 
 ---
